@@ -1,0 +1,8 @@
+Prado framework for PHP
+PRADO is a component-based and event-driven programming framework for developing Web applications in PHP 5. PRADO stands for PHP Rapid Application Development Object-oriented.
+
+ELEFLEX is an open source Microsoft .NET C# platform for building modular, domain-driven, service-oriented applications and services. The platform utilizes several open source libraries in it's foundation to provide a common, integrated design using the best of breed components. It's modular design enables teams of developers to create modules independently while easily integrating and publishing via NuGet to promote community collaboration.
+The platform incorporates SOA design principles and provides standardized service contracts utiizing Windows Communication Foundation (WCF) as the default transport protocol. Service governance has ensured modules are domain centric, while also promoting loose-coupling and composability for the system service inventory.
+
+MatrixPlatform
+The Message Bus is a message distribution and delivery framework built on C# .NET 2.0. It is highly optimized, fast and lightweight solution for distributing information between the different parts of your solution. It also comes with a few extras, like the ability to automatically match messages based on method input parameters and execute multiple messages in parallel on separate threads.
